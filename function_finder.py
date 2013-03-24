@@ -1,7 +1,7 @@
 #! /usr/bin/env python2.6
 
-import re
 import sys
+import re
 import os
 
 argv = len(sys.argv)
